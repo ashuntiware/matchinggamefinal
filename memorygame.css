@@ -11,14 +11,6 @@ body {
   background: lavender;
 }
 
-.h1 {
-  padding: 60px;
-  text-align: center;
-  background: lavender;
-  color: white;
-  font-size: 30px;
-}
-
 .memory-game {
   width: 500px;
   height: 400px;
